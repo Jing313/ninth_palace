@@ -170,7 +170,7 @@ function NormalContent() {
                       <div class="neoh_fn_gallery_1_2">
                         <div class="gallery_in">
                           <div class="item row2">
-                            <img src="img/landing/roadmap3a.jpg" alt="" />
+                            <img src="img/landing/roadmap3a.png" alt="" />
                           </div>
                           <div class="item">
                             <img src="img/landing/roadmap3b.jpg" alt="" />
