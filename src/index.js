@@ -9,12 +9,13 @@ import About from "./pages/about";
 import Contact from "./pages/contact";
 import Roadmap from "./pages/roadmap";
 
-
+const basename = document.querySelector('base')?.getAttribute('href') ?? '/';
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
 root.render(
   <React.StrictMode>
     
-    <Router>
+    <Router basename={basename}>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
