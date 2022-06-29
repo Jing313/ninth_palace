@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ninth_palace/static/css/main.7400ef8c.css",
+    "main.js": "/ninth_palace/static/js/main.e84d48f1.js",
+    "static/media/DirtyEgo-Dn2R.ttf": "/ninth_palace/static/media/DirtyEgo-Dn2R.c9fefc9928a430baaf96.ttf",
+    "static/media/fontello.svg?65176178": "/ninth_palace/static/media/fontello.9493b7e0ab46e2be3c62.svg",
+    "static/media/fontello.eot?65176178": "/ninth_palace/static/media/fontello.2b72d59211675024fbf3.eot",
+    "static/media/fontello.ttf?65176178": "/ninth_palace/static/media/fontello.2e9173cf66ee75dd4c06.ttf",
+    "static/media/fontello.woff?65176178": "/ninth_palace/static/media/fontello.543b6049b7566484ee8a.woff",
+    "static/media/fontello.woff2?65176178": "/ninth_palace/static/media/fontello.bd7cb49c9cd46a465d32.woff2",
+    "index.html": "/ninth_palace/index.html",
+    "main.7400ef8c.css.map": "/ninth_palace/static/css/main.7400ef8c.css.map",
+    "main.e84d48f1.js.map": "/ninth_palace/static/js/main.e84d48f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7400ef8c.css",
+    "static/js/main.e84d48f1.js"
+  ]
+}
