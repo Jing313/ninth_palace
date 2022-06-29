@@ -15,7 +15,7 @@ function HomeService() {
 				
 				{/* <!-- Main Title --> */}
 				<div class="neoh_fn_title">
-					<h3 class="fn_title">Why Choose Us?</h3>
+					<h3 class="fn_title">What Makes Us Different?</h3>
 					<div class="line"><span></span></div>
 				</div>
 				{/* <!-- !Main Title --> */}
@@ -29,7 +29,7 @@ function HomeService() {
 								<div class="item_content">
 									<h3 class="fn_title">Ecosystem</h3>
 									<p class="fn_desc fn_animated_text">
-										The avatar mint is simply our opening move. We have two highly competent teams developing a mobile and PC game. We have business plans to create an Incubator for similarly well planned projects. We have a future; bear market or otherwise.
+									The mint is our opening move. The short-term game is a mobile & PC game. The intermediate game is the sustainable in-game economy. The long-game is the Web3 gaming incubator.
 									</p>
 								</div>
 							</div>
@@ -40,7 +40,7 @@ function HomeService() {
 								<div class="item_content">
 									<h3 class="fn_title">Quality</h3>
 									<p class="fn_desc fn_animated_text">
-										Everything about this project is thought out. The art is planned, sketched, and illustrated for each use case that arises. The game design is complete: storyline, pre-production, production, testing, etc. We aren’t in any rush to change the future. We believe in quality.
+									Each and every part of the project has been well thought out. We've been building for over 8-months. The art is all original and drawn directly from the storyline. The game design is an ever-evolving piece of art: the narrative drives it and the gameplay guides it. We've adapted or innovated around technological pain points. We aren’t in any rush to change the future. We believe in quality.
 									</p>
 								</div>
 							</div>
@@ -49,9 +49,9 @@ function HomeService() {
 							<div class="item">
 								<div class="item_num"><span>03</span></div>
 								<div class="item_content">
-									<h3 class="fn_title">Top Shelf Team</h3>
+									<h3 class="fn_title">Future</h3>
 									<p class="fn_desc fn_animated_text">
-										The members of the The Ninth Palace team are the best in the industry. We are spread across the globe, and are all professionals in careers: tech workers, game developers, artists, and a musician. We are a family; we shy away from consultancy for day-to-day work, and it shows.
+									We've built the games with alternative metadata narratives planned for future releases. We've designed layers of hidden puzzles, ciphers to crack, and stories within the overarching story. The economy is directly connected to the narrative and our ultimate goal is to give game developers an incubator, an in-game economic model that will enable better games. Our "ConnectOne" system is going to be made open-source shortly after our release to allow game developers to integrate Web3 value systems while doing away with the mess of wallets, logins, and swaps.
 									</p>
 								</div>
 							</div>
@@ -60,9 +60,9 @@ function HomeService() {
 							<div class="item">
 								<div class="item_num"><span>04</span></div>
 								<div class="item_content">
-									<h3 class="fn_title">Future</h3>
+									<h3 class="fn_title">Business</h3>
 									<p class="fn_desc fn_animated_text">
-										Our business plan has three time frames: Immediate, Short, and Long Term. We are planning on growing this company for years, and to scale sustainably. Web3 needs businesses, revenue, measurable metrics and actionable intelligence. We are planning for the future.
+										We're a business. We started this project tracking expenses, hours, and investments. We've built out an accounting platform that works with Web3. We've applied for registration in Singapore, and are waiting for the approval for a corporate-crypto bank account. We're working with a legal team from the very beginning to ensure the in-game economy is in compliance in all jurisdictions. Our employees sign employment contracts AND receive salaries/bonuses in crypto. We're the future of Web3 gaming.
 									</p>
 								</div>
 							</div>

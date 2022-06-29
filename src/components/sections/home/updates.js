@@ -1,4 +1,5 @@
 import React from "react";
+import MediumBlog from "../../mediumblog";
 
 function UpdateSection() {
     return (
@@ -8,7 +9,7 @@ function UpdateSection() {
 				
 				{/* <!-- Main Title --> */}
 				<div class="neoh_fn_title">
-					<h3 class="fn_title">Updates & News</h3>
+					<h3 class="fn_title">News</h3>
 					<div class="line"><span></span></div>
 				</div>
 				{/* <!-- !Main Title --> */}
@@ -18,36 +19,66 @@ function UpdateSection() {
 					<ul>
 						<li>
 							<div class="item">
-								<img src="img/blog/sketch.jpg" alt="" class="moving_img"/>
+								<img src="img/landing/Twitter.png" alt="" class="moving_img"/>
 								<p class="fn_date">
-									<span>November 2021</span>
+									<span>Twitter</span>
 								</p>
+								<h3 class="fn_title">
+									<a href="https://twitter.com/theninthpalace">
+										Follow us on Twitter...
+									</a>
+								</h3>
 								<p class="fn_desc">
-									Pre-Production stops. The Team begins exploring options in Web3, and deciding whether or not it’s beneficial for the game, the community, and gaming in general.
+								
+								<blockquote class="twitter-tweet" data-lang="en" data-theme="dark">
+								<p lang="en" dir="ltr">We just published the first chapter in the storyline for The Ninth Palace. Be sure to follow. The Resistance Riddle&#39;s first clue will be drawn from the story. 
+								<a href="https://t.co/7M0LraVSeT">https://t.co/7M0LraVSeT</a><a href="https://twitter.com/hashtag/nftart?src=hash&amp;ref_src=twsrc%5Etfw">#nftart</a> 
+								<a href="https://twitter.com/hashtag/NFTs?src=hash&amp;ref_src=twsrc%5Etfw">#NFTs</a> 
+								<a href="https://twitter.com/hashtag/P2E?src=hash&amp;ref_src=twsrc%5Etfw">#P2E</a> 
+								<a href="https://twitter.com/hashtag/GameFi%E2%80%8C?src=hash&amp;ref_src=twsrc%5Etfw">#GameFi‌</a> 
+								<a href="https://twitter.com/hashtag/gaming?src=hash&amp;ref_src=twsrc%5Etfw">#gaming</a> 
+								<a href="https://twitter.com/hashtag/Crypto?src=hash&amp;ref_src=twsrc%5Etfw">#Crypto</a> 
+								<a href="https://twitter.com/hashtag/NFTCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#NFTCommunity</a> 
+								<a href="https://twitter.com/hashtag/NFTGame?src=hash&amp;ref_src=twsrc%5Etfw">#NFTGame</a> 
+								<a href="https://twitter.com/hashtag/Ethereum?src=hash&amp;ref_src=twsrc%5Etfw">#Ethereum</a> 
+								<a href="https://twitter.com/hashtag/MATIC?src=hash&amp;ref_src=twsrc%5Etfw">#MATIC</a> 
+								<a href="https://twitter.com/hashtag/PolygonNFT?src=hash&amp;ref_src=twsrc%5Etfw">#PolygonNFT</a></p>
+								&mdash; The Ninth Palace (@theninthpalace) 
+								<a href="https://twitter.com/theninthpalace/status/1538611306592358400?ref_src=twsrc%5Etfw">
+								June 19, 2022</a></blockquote> 
 								</p>
 								
 							</div>
 						</li>
 						<li>
 							<div class="item">
-								<img src="img/blog/Tee.jpg" alt="" class="moving_img"/>
+								<img src="img/landing/medium.png" alt="" class="moving_img"/>
 								<p class="fn_date">
-									<span>March 2022</span>
+									<span>Medium</span>
 								</p>
-								<p class="fn_desc">
-									The storyline, and “world, assets, characters” continues to be built. Pre-Production begins anew; Web3 whitepaper is added to the task list. 
-								</p>
+								<h3 class="fn_title">
+									<a href="https://medium.com/coinmonks/the-ninth-palace-d487ab2cbaa9">
+										Follow us on Medium...
+									</a>
+								</h3>
+								<MediumBlog />
 							</div>
 						</li>
 						<li>
 							<div class="item">
-								<img src="img/blog/rd2.jpg" alt="" class="moving_img"/>
-								<p class="fn_date">
-									<span>May 2022</span>
-								</p>
+								<img src="img/landing/substack.png" alt="" class="moving_img"/>
 								
-								<p class="fn_desc">
-									Asset creation begins, and The Resistance Economy is born. The illustrations for teasers, avatar mint, and marketing begin to get created.
+								<p class="fn_date">
+									<span>SubStack</span>
+								</p>
+								<h3 class="fn_title">
+									<a href="https://substack.com/profile/96126173-the-one?utm_source=user-menu">
+									Follow us on SubStack...
+									</a>
+								</h3>
+								<p class="fn_desc_substack" >
+									{/* Asset creation begins, and The Resistance Economy is born. The illustrations for teasers, avatar mint, and marketing begin to get created. */}
+									<iframe width="100%" height="320"  src="https://theninthpalace.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 								</p>
 							</div>
 						</li>

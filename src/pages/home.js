@@ -6,6 +6,7 @@ import HeroSection from "../components/sections/home/heroheader";
 import AboutSection from "../components/sections/home/about";
 import ServiceSection from "../components/sections/home/service";
 import RoadmapSection from "../components/sections/home/roadmap";
+import InvestorsSection from "../components/sections/home/investors";
 import UpdateSection from '../components/sections/home/updates';
 import ToTop from "../components/totop";
 import Footer from "../components/footer";
@@ -42,6 +43,10 @@ function Home() {
 			<RoadmapSection />
 			{/* <!-- !Roadmap Section --> */}
 			
+			{/* <!-- Investors Section --> */}
+			<InvestorsSection />
+			{/* <!-- !Investors Section --> */}
+
 			{/* <!-- Updates & News Section --> */}
 			<UpdateSection />
 			{/* <!-- !Updates & News Section --> */}

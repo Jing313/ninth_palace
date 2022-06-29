@@ -20,6 +20,7 @@
 	--hc: #fff;
 	--bc: #ccc;
 	--test: #DFE2E4;
+	--ego: 'Dirty Ego', sans-serif;
 	--hff: 'Heebo', sans-serif;
 	--bff: 'Nunito', sans-serif;
 	--eff: 'Open Sans', sans-serif;
@@ -387,8 +388,13 @@ a.full_link{
 	text-align: center;
 }
 @font-face {
-	font-family: neon;
-	src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/707108/neon.ttf);
+	/* font-family: neon;
+	src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/707108/neon.ttf); */
+	font-family: 'Dirty Ego';
+	src: url(/src/style/font/DirtyEgo-Dn2R.ttf);
+    font-weight: normal;
+    font-style: normal;
+
 }
 .neoh_fn_hero .fn_title{
 	max-width: 620px;
@@ -399,7 +405,7 @@ a.full_link{
 	letter-spacing: 20px; /* after changing this value, don't forget to change left value */
 	line-height: 1;
 	margin-bottom: 30px;
-	font-family: neon;
+	font-family: Dirty Ego;
 	transform: translateZ(0);
 	overflow: hidden;
 	position: relative;
@@ -1494,6 +1500,13 @@ a.full_link{
 .neoh_fn_moving_blog .fn_desc{
 	margin-bottom: 23px;
 }
+.neoh_fn_moving_blog .fn_desc_substack{
+	margin-bottom: 23px;
+	background-color:rgba(255, 250, 240, 0.95);
+	border: 1px solid var(--extra-color);
+	border-radius: 5px;
+	outline: none;
+}
 .neoh_fn_moving_blog .fn_read{
 	margin-bottom: 0;
 }
@@ -1970,6 +1983,7 @@ a.full_link{
 	line-height: 1;
 	font-weight: 300;
 	margin-bottom: 11px;
+	font-family: var(--ego);
 }
 .neoh_fn_pagetitle .fn_desc{
 	margin: 0;
@@ -4542,6 +4556,9 @@ a.full_link{
 	.neoh_fn_nav .nav_menu li{
 		margin-bottom: 20px;
 	}
+	.embed-page .publication-name, .embed-page .publication-tagline{
+		color: var(--bc)!important;
+	}
 	/*about*/
 	#information{
 		padding: 100px 0;
@@ -4779,5 +4796,8 @@ a.full_link{
 @media(max-width: 320px){
 	.neoh_fn_timeline .t_item{
 		padding: 15px;
+	}
+	.embed-page .publication-name, .embed-page .publication-tagline{
+		color: var(--bc);
 	}
 }

@@ -12,13 +12,13 @@ function Teams() {
               </div>
               {/* <!-- !Main Title --> */}
 
-              <div class="mw_650 fn_description">
+              {/* <div class="mw_650 fn_description">
                 <p class="fn_desc fn_animated_text">
                   The idea was born in London and rapidly became a borderless
                   vision - A team of Neoh with a background in computer
                   graphics, crypto, technology, and art.
                 </p>
-              </div>
+              </div> */}
 
               {/* <!-- Team List Shortcode --> */}
               <div class="neoh_fn_team">
@@ -30,8 +30,8 @@ function Teams() {
                           <img src="img/author/1.jpg" alt="" />
                         </div>
                         <div class="title_holder">
-                          <h3 class="fn_title">Tom Mccarthy</h3>
-                          <p class="fn_desc">2D Artist</p>
+                          <h3 class="fn_title">X</h3>
+                          <p class="fn_desc">Founder</p>
                         </div>
                       </div>
                       <div class="person_social">
@@ -63,8 +63,8 @@ function Teams() {
                           <img src="img/author/2.jpg" alt="" />
                         </div>
                         <div class="title_holder">
-                          <h3 class="fn_title">Owen Bradley</h3>
-                          <p class="fn_desc">2D Artist</p>
+                          <h3 class="fn_title">Dika</h3>
+                          <p class="fn_desc">Illustrator</p>
                         </div>
                       </div>
                       <div class="person_social">
@@ -96,8 +96,8 @@ function Teams() {
                           <img src="img/author/3.jpg" alt="" />
                         </div>
                         <div class="title_holder">
-                          <h3 class="fn_title">Daniel Bradley</h3>
-                          <p class="fn_desc">2D Artist</p>
+                          <h3 class="fn_title">Jin</h3>
+                          <p class="fn_desc">Full-Stack Developer</p>
                         </div>
                       </div>
                       <div class="person_social">
@@ -129,8 +129,8 @@ function Teams() {
                           <img src="img/author/4.jpg" alt="" />
                         </div>
                         <div class="title_holder">
-                          <h3 class="fn_title">Skylar Jarvis</h3>
-                          <p class="fn_desc">2D Artist</p>
+                          <h3 class="fn_title">T</h3>
+                          <p class="fn_desc">Solidity Developer</p>
                         </div>
                       </div>
                       <div class="person_social">
@@ -162,8 +162,8 @@ function Teams() {
                           <img src="img/author/5.jpg" alt="" />
                         </div>
                         <div class="title_holder">
-                          <h3 class="fn_title">Avery Briggs</h3>
-                          <p class="fn_desc">2D Artist</p>
+                          <h3 class="fn_title">A</h3>
+                          <p class="fn_desc">Designer</p>
                         </div>
                       </div>
                       <div class="person_social">
@@ -195,8 +195,8 @@ function Teams() {
                           <img src="img/author/6.jpg" alt="" />
                         </div>
                         <div class="title_holder">
-                          <h3 class="fn_title">Bernard Green</h3>
-                          <p class="fn_desc">2D Artist</p>
+                          <h3 class="fn_title">The Ninth Palace</h3>
+                          <p class="fn_desc">Marketing Lead</p>
                         </div>
                       </div>
                       <div class="person_social">

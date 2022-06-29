@@ -9,18 +9,17 @@ function HomeAbout() {
 				{/* <!-- About Item #1 --> */}
 				<div class="neoh_fn_about_item">
 					<div class="img_item">
-						<img src="img/about/home1.jpg" alt=""/>
+						<img src="img/landing/Intro_to_The_One.jpg" alt=""/>
 					</div>
 					<div class="content_item">
 						
 						<div class="neoh_fn_title" data-align="left">
-							<h3 class="fn_title">The Ninth Palace</h3>
+							<h3 class="fn_title">Introduction to “The One”</h3>
 							<div class="line"><span></span></div>
 						</div>
 						
 						<div class="desc">
-							<p>The first survivor of The Ninth Palace. He’s fallen into the leadership role without ever wanting it. The Resistance needs him to lead; he needs to get to his wife and daughter.</p>
-							<p>The illustrations have been done piece by painstaking piece to ensure a smooth transition into a graphic environment. There are over 220 different traits built into 20,000 Genesis avatars.</p>
+							<p>The first survivor to crawl away from The Ninth Palace. Joined “The Resistance” as a means to an end. He’s fallen into the leadership role without ever wanting it. The Resistance needs him to lead; he needs to get to his wife and daughter.</p>
 						</div>
 						
 						<div class="buttons">
@@ -51,23 +50,23 @@ function HomeAbout() {
 				{/* <!-- About Item #2 --> */}
 				<div class="neoh_fn_about_item reverse">
 					<div class="img_item">
-						<img src="img/about/home2.jpg" alt=""/>
+						<img src="img/landing/InceptionCollection.jpg" alt=""/>
 					</div>
 					<div class="content_item">
 						
 						<div class="neoh_fn_title" data-align="left">
-							<h3 class="fn_title">Quality is Non-Negotiable</h3>
+							<h3 class="fn_title">Introduction to Inception Collection</h3>
 							<div class="line"><span></span></div>
 						</div>
 						
 						<div class="desc">
-							<p>The quality of each aspect of the project means more to us than anything. We’ve been planning, writing, and designing for nearly a year.  We’re not in any rush to create substandard work.</p>
-							<p>The narrative’s arc coincides with the eproject’s roadmap; the in-game “Resistance” economy is built on sustainability.; the game development is thought through thoroughly during Pre-Production.</p>
-							<p>We’re so excited to watch the community discover the secrets, the storylines within storylines, and finally, uncover the ideals the project is built on: privacy, freedom, and community.</p>
+							<p>The quality of each aspect of the project means more to us than anything. We’ve been planning, writing, and designing for nearly a year.  We’re not in any rush to create substandard work. </p>
+							<p>The narrative’s arc coincides with the project’s roadmap; the in-game “Resistance” economy is built on sustainability; the game development is thought through thoroughly during Pre-Production.</p>
+							<p> We’re so excited to watch the community discover the secrets, the storylines within storylines, and finally, uncover the ideals the project is built on: privacy, freedom, and community.</p>
 						</div>
 						
 						<div class="buttons">
-							<a href="about.html" class="neoh_fn_button only_text">
+							<a href="/about" class="neoh_fn_button only_text">
 								<span class="text">More About US</span>
 							</a>
 						</div>

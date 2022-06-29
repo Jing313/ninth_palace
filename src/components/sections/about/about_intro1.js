@@ -5,11 +5,11 @@ function AboutIntro1() {
     <>
       <div class="neoh_fn_about_item">
         <div class="img_item">
-          <img src="img/about/home1.jpg" alt="" />
+          <img src="img/1.jpg" alt="" />
         </div>
         <div class="content_item">
           <div class="neoh_fn_title" data-align="left">
-            <h3 class="fn_title">The Ninth Palace</h3>
+            <h3 class="fn_title">The Rise of Five</h3>
             <div class="line">
               <span></span>
             </div>
@@ -17,14 +17,7 @@ function AboutIntro1() {
 
           <div class="desc">
             <p>
-              The first survivor of The Ninth Palace. He’s fallen into the
-              leadership role without ever wanting it. The Resistance needs him
-              to lead; he needs to get to his wife and daughter.
-            </p>
-            <p>
-              The illustrations have been done piece by painstaking piece to
-              ensure a smooth transition into a graphic environment. There are
-              over 220 different traits built into 20,000 Genesis avatars.
+              Five was the fifth survivor to make it out of The Ninth Palace. She'd not been seen since and was presumed dead until the bombings at the Zone Three Chute Station. The bombings brought her back from the dead. The Resistance needs her more than she needs The Resistance.
             </p>
           </div>
 

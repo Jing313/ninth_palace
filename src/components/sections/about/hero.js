@@ -1,13 +1,13 @@
 import React from "react";
 
-function About_Hero() {
+function AboutHero() {
     return (
     <>
     {/* <!-- Page Title --> */}
     <div class="neoh_fn_pagetitle">
           <div class="bg_overlay">
             <div class="bg_color"></div>
-            <div class="bg_image" data-bg-img="img/hero/webBg-about.jpg"></div>
+            <div class="bg_image" data-bg-img="img/about/bg.jpg"></div>
           </div>
           <div class="pt_content">
             <div class="container">
@@ -19,7 +19,7 @@ function About_Hero() {
                 About
               </h3>
               <p class="fn_desc">
-                <a href="index.html">Home</a>
+                <a href="/">Home</a>
                 <span class="separator">/</span>
                 <span class="current">About</span>
               </p>
@@ -32,4 +32,4 @@ function About_Hero() {
   );
 }
 
-export default About_Hero;
+export default AboutHero;

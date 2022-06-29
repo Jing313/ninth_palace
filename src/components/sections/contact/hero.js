@@ -1,6 +1,6 @@
 import React from "react";
 
-function Contact_Hero() {
+function ContactHero() {
     return (
     <>
     {/* <!-- Page Title --> */}
@@ -13,7 +13,7 @@ function Contact_Hero() {
 				<div class="container">
 					<h3 class="fn_title fn_animated_text" data-wait="1000" data-speed="8">Contact</h3>
 					<p class="fn_desc">
-						<a href="index.html">Home</a>
+						<a href="/">Home</a>
 						<span class="separator">/</span>
 						<span class="current">Contact</span>
 					</p>
@@ -26,4 +26,4 @@ function Contact_Hero() {
   );
 }
 
-export default Contact_Hero;
+export default ContactHero;

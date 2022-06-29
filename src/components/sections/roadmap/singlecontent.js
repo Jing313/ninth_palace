@@ -28,16 +28,16 @@ function SingleContent() {
                 
                 <div class="neoh_fn_breadcrumbs">
                     <p>
-                        <a href="index.html">Home</a>
+                        <a href="/">Home</a>
                         <span class="separator">/</span>
-                        <a href="roadmap.html">RoadMap</a>
+                        <a href="/roadmap">RoadMap</a>
                         <span class="separator">/</span>
-                        <span class="current">Mini Game Lounch for Community</span>
+                        <span class="current">Mini Game Launch for Community</span>
                     </p>
                 </div>
                 
                 <div class="single_img">
-                    <img src="img/hero/wbBg-roadmap.jpg" alt="" />
+                    <img src="img/roadmap/Roadmap.jpg" alt="" />
                 </div>
                 
                 <DescItem1 />

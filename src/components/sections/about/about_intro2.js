@@ -5,26 +5,28 @@ function AboutIntro2() {
     <>
     <div class="neoh_fn_about_item reverse">
                 <div class="img_item">
-                  <img src="img/about/home2.jpg" alt="" />
+                  <img src="img/1.jpg" alt="" />
                 </div>
                 <div class="content_item">
                   <div class="neoh_fn_title" data-align="left">
-                    <h3 class="fn_title">Thousands of Users</h3>
+                    <h3 class="fn_title">Campaign v Multiplayer</h3>
                     <div class="line"><span></span></div>
                   </div>
 
                   <div class="desc">
                     <p>
-                      Simply holding a Neoh will give you access to seasonal
-                      airdrops, merchandise, physical and digital artworks,
-                      collectibles and more.
+                    Holding an Inception Collection NFT will allow you access to the very first versions of the games. 
+                    We've created a storyline for the campaign; decision-based gaming will allow each and every player to 
+                    experience slightly different outcomes based on their choices. Alternate metadata subscriptions in the 
+                    future will allow for narrative expansion and interesting in-game "games" for players to explore or even 
+                    monetize. 
                     </p>
                     <p>
-                      We understand the importance of the cross-over between
-                      these worlds and we truly believe to bridge these two
-                      together. Our goals will always be for the community -
-                      creating, building and innovating together with the
-                      commmunity.
+                    The Multiplayer version of the game is essentially a place for members of The Resistance to organize into clans or 
+                    teams and fight the Modgnik Security Services together. Missions will differ from the Campaign version, and there 
+                    will be interesting formats updated regularly. Being a Web3 game allows us to truly take feedback from the community 
+                    in a way most AAA-Tier games can not. Owning an Inception Collection NFT will also be your "token" of ownership for the 
+                    multiplayer servers. In a perfect world, they're completely decentralized and run by the community. 
                     </p>
                   </div>
 

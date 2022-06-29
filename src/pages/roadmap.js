@@ -3,9 +3,7 @@ import Navbar from "../components/navbar";
 import Header from "../components/header";
 import ToTop from "../components/totop";
 import Footer from "../components/footer";
-import HeroSection from "../components/sections/roadmap/hero";
-import ContactForm from '../components/sections/contact/contactform';
-import SingleContent from '../components/sections/roadmap/singlecontent';
+import NormalContent from '../components/sections/roadmap/normalcontent';
 
 function Roadmap() {
   return (
@@ -21,8 +19,9 @@ function Roadmap() {
 
         {/* <!-- Content --> */}
         <div class="neoh_fn_content">
-          {/* <HeroSection /> */}
-          <SingleContent />
+          
+          {/* <SingleContent /> */}
+          <NormalContent />
         </div>
         {/* <!-- Content --> */}
 

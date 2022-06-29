@@ -13,7 +13,7 @@ function HeroHeader() {
 				{/* <!-- !Overlay Color --> */}
 				
 				{/* <!-- Overlay Image --> */}
-				<div class="bg_image" data-bg-img="img/hero/webBg.jpg"></div>
+				<div class="bg_image" data-bg-img="img/landing/LandingBg.jpg"></div>
 				{/* <!-- !Overlay Image --> */}
 				
 			</div>
@@ -23,7 +23,8 @@ function HeroHeader() {
 				<div class="container">
 					<div class="content">
 						<h2 class="fn_title" title="Ninth Palace">The Ninth Palace</h2>
-						<p class="fn_desc fn_animated_text">The collection built by and runby ‘frenify’. Together we are strong than ever.</p>
+						<p class="fn_desc fn_animated_text">Introduction to <b>“The One”</b></p>
+						<p class="fn_desc fn_animated_text">The first survivor to crawl away from The Ninth Palace. Joined “The Resistance” as ......</p>
 					</div>
 				</div>
 				<a href="#about" class="neoh_fn_down magic-hover magic-hover__square">
