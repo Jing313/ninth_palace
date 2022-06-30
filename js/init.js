@@ -221,7 +221,7 @@ var NeohFilterArray		= [];
 				}
 				else{
 					// Returns successful data submission message when the entered information is stored in database.
-					$.post("modal/contact.php",{ ajax_name: name, ajax_email: email, ajax_subject: subject, ajax_message:message}, function(data) {
+					$.post("./modal/contact.php",{ ajax_name: name, ajax_email: email, ajax_subject: subject, ajax_message:message}, function(data) {
 
 						$(".contact_form .returnmessage").append(data);//Append returned message to message paragraph
 
